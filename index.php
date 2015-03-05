@@ -1,1 +1,3 @@
-testtesttest
+<?php 
+	echo "This is test file.";
+?>
